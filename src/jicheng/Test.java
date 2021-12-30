@@ -7,5 +7,5 @@ public class Test {
         Square b = new Square();
         System.out.println("square area=" + b.getArea() + ",square c=" + b.getc());
     }
-
+//是归属感·
 }
